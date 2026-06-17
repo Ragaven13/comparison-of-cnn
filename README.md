@@ -12,7 +12,7 @@ A Comparative Study on MRI Image Classification
 
 🚀 Project Overview
 
-This project presents a comprehensive comparison of CNN models (VGG16, ResNet50, DenseNet121) and Vision Transformer-based architectures for multi-class brain tumor detection using MRI images.
+This project presents a comprehensive comparison of CNN models (VGG16, ResNet50, DenseNet121)  for multi-class brain tumor detection using MRI images.
 Models were trained under identical conditions and evaluated using accuracy, F1-score, ROC-AUC, confusion matrices, and loss/accuracy curves to determine which architecture performs best for medical imaging tasks.
 
 Dataset includes 4 classes:
