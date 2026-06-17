@@ -1,6 +1,6 @@
 <p align="center"> <!-- Deep Learning --> <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20Transformers-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Models-VGG16%20%7C%20ResNet50%20%7C%20DenseNet121-blue?style=for-the-badge" /> <!-- Transformers --> <img src="https://img.shields.io/badge/Transformers-ViT%20%7C%20Hybrid-green?style=for-the-badge" /> <!-- Frameworks --> <img src="https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange?style=for-the-badge" /> <!-- Libraries --> <img src="https://img.shields.io/badge/Libraries-NumPy%20%7C%20Pandas%20%7C%20OpenCV-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-lightblue?style=for-the-badge" /> <!-- ML Tasks --> <img src="https://img.shields.io/badge/Tasks-MRI%20Processing%20%7C%20EDA%20%7C%20Augmentation-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Evaluation-Accuracy%20%7C%20F1%20%7C%20AUC%20%7C%20ROC-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Training-GPU%20Accelerated-brightgreen?style=for-the-badge" /> </p>
 
-🧠 Brain Tumor Detection Using CNNs & Transformers
+🧠 Brain Tumor Detection Using CNNs
 A Comparative Study on MRI Image Classification
 
 
